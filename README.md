@@ -27,7 +27,7 @@ Der Esp32 soll mit einem Messrad den Umfang des Baumes bestimmen. Hierzu gibt es
 
 Der Boot läuft auf dem ESP32 mit dem auch gleichzeitig gemessen wird. Der ESP 32 muss sich hierfür über Wlan im Internet befinden um mit Telegram zu kommunizieren. Die Abfrage aller relevanten Daten erfolgt über das Keyboard das die Bot API anbietet oder über direkte Texteingaben. Im folgenden Flowchart wird der Ablauf erklärt:
 
-![Flow Chart](https://hsfurtwangende-my.sharepoint.com/personal/julian_david_katz_associate_hs-furtwangen_de/Documents/5_Semester/Interface%20Design/Flowchart_v1.png?Web=1)
+![Flow Chart](./images/Flowchart_v1.png)
 
 
 
