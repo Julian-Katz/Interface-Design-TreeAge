@@ -8,7 +8,8 @@ Um ein Conversational Interface zu Bestimmung des Alters von Bäumen. In einem a
 ## Frage- und Aufgabenstellungen
 
 ### Aufgabe:
-Finden sie das Alter eines Baumes heraus, nutze die manuelle Eingabe zur Erfassung des Baumdurchmessers?
+1. Finden sie das Alter eines Baumes heraus, nutze die manuelle Eingabe zur Erfassung des Baumdurchmessers?
+2. Finden sie das Alter eines Baumes heraus, nutze das Messrad zur Erfassung des Baumdurchmessers?
 
 ### Fragestellungen:
 1. Waren die Hinweise bei Falscheingaben hilfreich?
