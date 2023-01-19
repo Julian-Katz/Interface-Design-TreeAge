@@ -13,6 +13,7 @@ Die Ergebnisse der Evaluation sind aufgeteilt in die entsprechenden Schritte der
 Kursive Einträge sind *Top Findings*
 
 ### Schritt 1: Baum wählen:
+<img src="./images/01_choose_tree.jpg" alt="Choose Tree" width="360"/>
 
 Ergebnis | Häufigkeit
 -------- | --------
@@ -22,6 +23,8 @@ Baum verifizieren z.B. über Blätter   | 1
 *Start verwirrend (keine klare Startanweisung)*  | *1*
 
 ### Schritt 2: Messmethode wählen:
+<img src="./images/02_measuring_mode.jpg" alt="Measuring Mode" width="360"/>
+
 
 Ergebnis | Häufigkeit
 -------- | --------
@@ -38,6 +41,7 @@ Ergebnis | Häufigkeit
 Eingabe mit Einheit sollte möglich sein   | 2
 
 #### Messrad:
+<img src="./images/03_measuring_wheel.jpg" alt="Measuring Wheel" width="360"/>
 
 Ergebnis | Häufigkeit
 -------- | --------
@@ -48,8 +52,8 @@ Ganzer Satz bei Messergebnis Anzeige: z.B. "Dein gemessener Umfang beträgt ….
 nicht klickbare Befehle "/bestätigen"    | 3
 Bestätigen am Messrad über Knopf   | 1
 
-
 ### Schritt 4: Altersausgabe:
+<img src="./images/04_solution.jpg" alt="Measuring Wheel" width="360"/>
 
 Ergebnis | Häufigkeit
 -------- | --------
