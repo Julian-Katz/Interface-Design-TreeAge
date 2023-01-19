@@ -8,7 +8,7 @@
 
 ## Ergebnisse Gesamt
 
-Die Ergebnisse der Evaluation sind aufgeteilt in die entsprechenden Schritte der Konversation.
+Die Ergebnisse der Evaluation sind aufgeteilt in die entsprechenden Schritte der Konversation. Es wurden insgesamt 3 Probanden befragt.
 
 Kursive Einträge sind *Top Findings*
 
@@ -35,6 +35,7 @@ Ergebnis | Häufigkeit
 -------- | --------
 Mehr parameter zur Alterbestimmung (= genaueres Ergebnis)  | 1
 #### Manuell:
+<img src="./images/03_manual.jpg" alt="Measuring Wheel" width="360"/>
 
 Ergebnis | Häufigkeit
 -------- | --------
@@ -61,6 +62,18 @@ Fakten zum Baum ausgeben + weiterführende Links  | 1
 Baumart in Satz erwähnen   | 1
 *Hauptmenü*   | *3*
 *Negative Zahl verhindern*  | *1*
+
+## Weiterführende Fragen und Antworten:
+
+1. Waren die Hinweise bei Falscheingaben hilfreich?
+    - Ja wen wen man eine falsche Baumart gewählt hat.
+    - Bei falscheingabe von /befehlen haben hinweise gefehlt.
+2. War an allen Stellen klar was der nächste Schritt ist, wenn nein wo gab es Unklarheiten?
+    - Wie der Bot gestartet wird war nicht klar.
+    - Das bestätigen des Messwerts war nicht sofort ersichtlich. 
+3. Konnten sie das Alter eines Baumes erfassen wie zufrieden waren sie mit dem Ergebnis und den erhaltenen Informationen?
+    - Ja es wurde nur das Alter ausgegeben.
+    - Weiterführende Informationen zum BAum wären schön gewesen. 
 
 ## Top Findings Priorisierung
 
