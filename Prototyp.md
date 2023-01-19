@@ -18,3 +18,4 @@ Dieser ist in einem Status in dem der Bot getestet werden kann. Momentan wird si
 
 ### Gesamtablauf
 ![Prototyp Low Fid](./images/Prototyp_Low_v2.jpg)
+<img src="./images/Prototyp_Low_v2.jpg" alt="Prototyp Low Fid" width="360"/>
