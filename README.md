@@ -1,4 +1,4 @@
-# Interface Design
+# Interface Design - TreeAge
 Alter von Bäumen bestimmen durch Telegram Bot mithilfe eines Conversational User Interface über den Durchmesser und die Baumart. Dieser soll auf einem ESP32 laufen mit dessen Hilfe soll über einen rotary Encoder der Durchmesser gemessen werden.
 ## Inhalt
 1. Übersicht (diese Seite)
