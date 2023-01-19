@@ -4,7 +4,7 @@ Prototyping eines Chat Bots, um das Alter von Bäumen mithilfe eines Messgeräte
 Hier wurde zu Beginn Der Ansatz mithilfe eines Telegram Bots gewählt, welcher relativ einfach die Erstellung eines Conversational User Interface erlaubt. Im ersten Ansatz sollten noch Baumart und Alter bestimmt werden. Der Telegram Bot sollte auf einem ESP32 laufen, welcher mit einem rotary encoder Distanz messen soll nach dem Prinzip eines Messrads. Dieser Ansatz ist beim Low-Fid Prototyp umgesetzt wurden. Beim High-Fid Prototyp gab es noch einige Umstellungen. 
 ## Inhalt
 1. Übersicht / Ideation (diese Seite)
-2. [Prototyp Low-Fid](Prototyp.md)
+2. [Prototyp Low-Fid](Prototyp_Low-Fid.md)
 3. [Evaluation Low-Fid Prototyp](Evaluation.md)
 3. [High-Fid Prototyp](Evaluation.md)
 
