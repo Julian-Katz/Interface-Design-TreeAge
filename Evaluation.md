@@ -81,6 +81,6 @@ Baumart in Satz erwähnen   | 1
 2. Hauptmenü bei Altersausgabe
 3. Nicht klar das z.B. "/manuell" klickbar
 4. Negative Zahl verhindern bei Altersausgabe
-5. Negativen Wert verhindern oder Messrichtung vorgeben bei Messrad
-6. Bestätigen und zurücksetzen erst wenn das Messrad sich nicht mehr dreht
+5. Bestätigen und zurücksetzen erst wenn das Messrad sich nicht mehr dreht
+6. Negativen Wert verhindern oder Messrichtung vorgeben bei Messrad
 7. Start verwirrend (keine klare Startanweisung) 
