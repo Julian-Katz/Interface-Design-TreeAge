@@ -12,7 +12,9 @@ Der Boot läuft auf dem ESP32 mit dem auch gleichzeitig gemessen wird. Der ESP 3
 
 ## Code:
 
-Hier ist der aktuelle Stand des Prototyps (noch Low-Fid Prototype): [ThreeAgeBot](https://github.com/Julian-Katz/ThreeAgeBot)
-Dieser ist momentan in einem Status in dem der Bot getestet werden kann allerdings nur mit manueller Eingabe des Baumdurchmessers. Momentan wird sich auf die Grundlegende Funktion konzentriert Formulierungen und Buttons sind noch nicht final. 
+Low-Fid Prototyp Code: [TreeAgeBot](https://github.com/Julian-Katz/TreeAge-Telegram-Bot)
 
-![Prototyp Low Fid](./images/Prototyp_Low.png)
+Dieser ist in einem Status in dem der Bot getestet werden kann. Momentan wird sich auf die Grundlegende Funktion konzentriert Formulierungen und Buttons sind noch nicht final. Der genaue Ablauf ist in der Evaluation festgehalten.
+
+### Gesamtablauf
+![Prototyp Low Fid](./images/Prototyp_Low_v2.jpg)

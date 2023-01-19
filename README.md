@@ -1,9 +1,13 @@
 # Interface Design - TreeAge
-Alter von Bäumen bestimmen durch Telegram Bot mithilfe eines Conversational User Interface über den Durchmesser und die Baumart. Dieser soll auf einem ESP32 laufen mit dessen Hilfe soll über einen rotary Encoder der Durchmesser gemessen werden.
+Prototyping eines Chat Bots, um das Alter von Bäumen mithilfe eines Messgerätes auf ESP32 Basis zu bestimmen.
+
+Hier wurde zu Beginn Der Ansatz mithilfe eines Telegram Bots gewählt, welcher relativ einfach die Erstellung eines Conversational User Interface erlaubt. Im ersten Ansatz sollten noch Baumart und Alter bestimmt werden. Der Telegram Bot sollte auf einem ESP32 laufen, welcher mit einem rotary encoder Distanz messen soll nach dem Prinzip eines Messrads. Dieser Ansatz ist beim Low-Fid Prototyp umgesetzt wurden. Beim High-Fid Prototyp gab es noch einige Umstellungen. 
 ## Inhalt
 1. Übersicht (diese Seite)
-2. [Prototyp](Prototyp.md)
+2. [Prototyp Low-Fid](Prototyp.md)
 3. [Evaluation Low-Fid Prototyp](Evaluation.md)
+3. [High-Fid Prototyp](Evaluation.md)
+
 ## Baumart bestimmen
 
 Die Baumart zu bestimmen ist relativ komplex, da man entsprechende Daten über jeden Baum braucht und diese dann mithilfe eines Abfrageschemas durchgehen muss um den passenden zu finden. Deshalb werde ich erst mal an der Altersbestimmung arbeiten und wenn später zeitlich noch möglich die Bestimmung der Baumart einbauen. 
