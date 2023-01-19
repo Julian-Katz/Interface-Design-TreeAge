@@ -1,12 +1,13 @@
 # Interface Design - TreeAge
 Prototyping eines Chat Bots, um das Alter von Bäumen mithilfe eines Messgerätes auf ESP32 Basis zu bestimmen.
 
-Hier wurde zu Beginn Der Ansatz mithilfe eines Telegram Bots gewählt, welcher relativ einfach die Erstellung eines Conversational User Interface erlaubt. Im ersten Ansatz sollten noch Baumart und Alter bestimmt werden. Der Telegram Bot sollte auf einem ESP32 laufen, welcher mit einem rotary encoder Distanz messen soll nach dem Prinzip eines Messrads. Dieser Ansatz ist beim Low-Fid Prototyp umgesetzt wurden. Beim High-Fid Prototyp gab es noch einige Umstellungen. 
+Hier wurde zu Beginn der Ansatz mithilfe eines Telegram Bots gewählt, welcher die Erstellung eines Conversational User Interface erlaubt. Im ersten Ansatz sollte noch die Baumart bestimmt werden. Der Telegram Bot sollte auf einem ESP32 laufen, welcher mit einem rotary encoder Distanz messen soll nach dem Prinzip eines Messrads. Dieser Ansatz wurde beim Low-Fid Prototyp umgesetzt. Beim High-Fid Prototyp gab es noch einige Änderungen.
 ## Inhalt
 1. Übersicht / Ideation (diese Seite)
 2. [Prototyp Low-Fid](Prototyp_Low-Fid.md)
 3. [Evaluation Low-Fid Prototyp](Evaluation.md)
 3. [High-Fid Prototyp](Prototyp_High-Fid.md)
+3. [Abschlusspräsentation](https://hsfurtwangende-my.sharepoint.com/:b:/g/personal/julian_david_katz_associate_hs-furtwangen_de/EW8K70f1q8lAo-66Be6UyC4BUQEnLtXCKLpMbrXhbpkbnw?e=rUHhwz)
 
 ## Ideation Präsentation
 
@@ -32,8 +33,6 @@ Eschen, Erlen, Fichten, Lärchen, Pappeln, Robinien und Walnussbäumen **0,3** b
 Platanen und Esskastanien **0.4**<br>
 **= Alter in Jahren**
 
-### Messen des Durchmessers mit ESP32
-Der Esp32 soll mit einem Messrad den Umfang des Baumes bestimmen. Hierzu gibt es folgendes [Beispiel](https://www.circuitschools.com/diy-measuring-wheel-using-arduino-and-rotary-encoder/).
 
 
 

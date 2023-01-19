@@ -66,18 +66,18 @@ Baumart in Satz erwähnen   | 1
 ## Weiterführende Fragen und Antworten:
 
 1. Waren die Hinweise bei Falscheingaben hilfreich?
-    - Ja wen wen man eine falsche Baumart gewählt hat.
-    - Bei falscheingabe von /befehlen haben hinweise gefehlt.
-2. War an allen Stellen klar was der nächste Schritt ist, wenn nein wo gab es Unklarheiten?
+    - Ja, wenn man eine falsche Baumart gewählt hat.
+    - Bei Falscheingabe von "/befehlen" haben Hinweise gefehlt.
+2. War an allen Stellen klar, was der nächste Schritt ist, wenn nein wo gab es Unklarheiten?
     - Wie der Bot gestartet wird war nicht klar.
-    - Das bestätigen des Messwerts war nicht sofort ersichtlich. 
-3. Konnten sie das Alter eines Baumes erfassen wie zufrieden waren sie mit dem Ergebnis und den erhaltenen Informationen?
-    - Ja es wurde nur das Alter ausgegeben.
-    - Weiterführende Informationen zum BAum wären schön gewesen. 
+    - Das Bestätigen des Messwerts war nicht sofort ersichtlich. 
+3. Konnten sie das Alter eines Baumes erfassen, wie zufrieden waren sie mit dem Ergebnis und den erhaltenen Informationen?
+    - Ja, es wurde nur das Alter ausgegeben.
+    - Weiterführende Informationen zum Baum wären schön gewesen. 
 
 ## Top Findings Priorisierung
 
-1. viele Nachrichten (Nachricht sollte aktualisiert werden)
+1. Viele Nachrichten (Nachricht sollte aktualisiert werden)
 2. Hauptmenü bei Altersausgabe
 3. Nicht klar das z.B. "/manuell" klickbar
 4. Negative Zahl verhindern bei Altersausgabe
