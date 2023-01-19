@@ -17,5 +17,4 @@ Low-Fid Prototyp Code: [TreeAgeBot](https://github.com/Julian-Katz/TreeAge-Teleg
 Dieser ist in einem Status in dem der Bot getestet werden kann. Momentan wird sich auf die Grundlegende Funktion konzentriert Formulierungen und Buttons sind noch nicht final. Der genaue Ablauf ist in der Evaluation festgehalten.
 
 ### Gesamtablauf
-![Prototyp Low Fid](./images/Prototyp_Low_v2.jpg)
 <img src="./images/Prototyp_Low_v2.jpg" alt="Prototyp Low Fid" width="360"/>
