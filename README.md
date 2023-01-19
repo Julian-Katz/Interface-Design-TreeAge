@@ -6,7 +6,7 @@ Hier wurde zu Beginn Der Ansatz mithilfe eines Telegram Bots gewählt, welcher r
 1. Übersicht / Ideation (diese Seite)
 2. [Prototyp Low-Fid](Prototyp_Low-Fid.md)
 3. [Evaluation Low-Fid Prototyp](Evaluation.md)
-3. [High-Fid Prototyp](Evaluation.md)
+3. [High-Fid Prototyp](Prototyp_High-Fid.md)
 
 ## Ideation Präsentation
 
